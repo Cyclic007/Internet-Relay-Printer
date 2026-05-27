@@ -24,7 +24,7 @@ I am going to be effectively required to use USB-PD EPR to be able to draw 28v a
 
 I am going to make a 5 pin "adapter" that will have 2 ground pins 1 5v pin 1 24v pin and the weird as crap N.C pin on the Recept printer that is very clearly connected and has 24v
 
-I am going to need to use 16 gauge wire so that It wont try and burn everything to the ground
+I am going to need to use at least 10 gauge wire so that It wont try and burn everything to the ground
 
 I will also be ueing a db-9 connector very incorrectly with the top 5 pins almost exclusively and I will figure out what to do with the bottom pins.
 
