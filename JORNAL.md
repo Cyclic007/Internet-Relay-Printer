@@ -49,4 +49,7 @@ I am prototypeing the system that I will use and I have gotten the pcb out of th
 ![](https://cdn.hackclub.com/019e7a15-3b90-75c2-83b7-d9b4886bb9c4/img_8070.jpg)
 ![](https://cdn.hackclub.com/019e7a15-3992-7a31-8688-b636c67339cb/img_8059.jpg)
 
-# time spent (about 4 hours)
+
+I made the full case amd mow have a 35 hour 3d printing job going
+
+# time spent (about 8 hours)
