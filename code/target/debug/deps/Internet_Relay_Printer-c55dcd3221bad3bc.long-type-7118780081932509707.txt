@@ -1,0 +1,1 @@
+std::result::Result<irc::client::ClientStream, irc::error::Error>
