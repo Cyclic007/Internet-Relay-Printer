@@ -131,4 +131,36 @@
 # BOM
 
 
-- 380-009-203L001 : DB-9 Connector
+- 3223DB9RP1G1E : DB-9 Connector
+- any 10 gauge wire (I would like 4 colours if I am able)
+- 10 gauge wire crimp ends
+- heat set inserts
+- screws (I need to be able to dissaseble for airport security)
+- 3223DB9RS1G1E : DB-9 female
+- N238-001-BL : RJ-45 keystone
+
+
+
+
+
+# DB-9 Pinout
+
+### PI Power
+1. 5v
+2. gnd
+### printer power
+3. "N.C"
+4. 24v
+5. gnd
+
+
+
+### bonus USB connection (I know this is crap but I have the pins)
+6. usb 5v
+7. usb d+
+8. usb d-
+9. usb gnd
+
+
+
+
