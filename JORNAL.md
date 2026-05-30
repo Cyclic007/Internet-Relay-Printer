@@ -31,3 +31,11 @@ I will also be ueing a db-9 connector very incorrectly with the top 5 pins almos
 I might have a USB signal go though the bottem 4 pins we will see
 
 ## time spent (about 5 to 6 hours)
+
+# May 30
+
+I have started to design the case 
+
+I am prototypeing the system that I will use and I have gotten the pcb out of the case it came in
+
+# time spent (about 4 hours)
