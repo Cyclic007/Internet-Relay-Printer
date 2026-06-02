@@ -53,3 +53,22 @@ I am prototypeing the system that I will use and I have gotten the pcb out of th
 I made the full case amd mow have a 35 hour 3d printing job going
 
 # time spent (about 8 hours)
+
+
+# May 31 - June 2nd (Finishing up)
+
+
+
+I fixed the case so  that I can actualy get all of the pcbs in
+I setup the raspberry pi to have all terminal output go directly to the recept prinnter so that I can just hook it up to a live cli irc client.
+The commands that are run at startup are 
+
+- script -f /dev/usb/lp0
+- export PROMPT_COMMAND='echo "\n\n\n\n\n\n\n"'
+
+These commands will pipe all terminal output to the printer LIVE
+
+![](https://cdn.hackclub.com/019e88d2-5e7f-7f5c-873b-45366a2b8c01/img_8097.jpg)
+
+
+## Time spent (about 4 hours)
